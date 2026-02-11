@@ -72,48 +72,23 @@
 
 ## 💼 Featured Projects
 
-### 🎵 [Spotify Azure Data & AI Platform](https://github.com/iftikar0016/Azure-Spotify-Project)
-> End-to-end Lakehouse platform with ML and Generative AI for music streaming analytics
+<div align="center">
 
-- ⚡ Metadata-driven incremental ingestion with Azure Data Factory
-- 🏗️ Medallion Architecture (Bronze, Silver, Gold) using Databricks & Delta Lake
-- 🤖 ML model for hit song prediction with Scikit-learn & MLflow
-- 💬 AI-powered Chat-with-Data agent using LangChain & Llama 3
+| [**Spotify Azure AI Platform**](https://github.com/iftikar0016/Azure-Spotify-Project) | [**SupportX AI Assist**](https://github.com/iftikar0016/multi-agent-it-support) |
+| :---: | :---: |
+| <a href="https://github.com/iftikar0016/Azure-Spotify-Project"><img src="https://raw.githubusercontent.com/iftikar0016/Azure-Spotify-Project/refs/heads/main/images/Architecture.png" width="450px" alt="Spotify Project"></a> | <a href="https://github.com/iftikar0016/multi-agent-it-support"><img src="https://raw.githubusercontent.com/iftikar0016/multi-agent-it-support/refs/heads/main/images/architecture.png" width="450px" alt="SupportX Project"></a> |
+| *End-to-end Lakehouse platform with ML & GenAI for music streaming analytics.* | *Multi-Agent IT assistant powered by Agentic RAG and vector search.* |
+| `Azure` `Databricks` `PySpark` `LangChain` | `Python` `AutoGen` `Azure Search` `Gemini` |
 
-**Tech:** `Azure Data Factory` `Databricks` `Delta Lake` `PySpark` `LangChain` `MLflow`
+<br />
 
----
+| [**Household Services**](https://github.com/iftikar0016/HouseHold-Services-V2) | [**NYC Taxi Data Pipeline**](https://github.com/iftikar0016/DE-Project-NYC-taxi) |
+| :---: | :---: |
+| <a href="https://github.com/iftikar0016/HouseHold-Services-V2"><img src="https://raw.githubusercontent.com/iftikar0016/DE-Project-NYC-taxi/main/Architecture%20Diagram.jpg" width="450px" alt="Household Services"></a> | <a href="https://github.com/iftikar0016/DE-Project-NYC-taxi"><img src="https://raw.githubusercontent.com/iftikar0016/DE-Project-NYC-taxi/main/Architecture%20Diagram.jpg" width="450px" alt="NYC Taxi Pipeline"></a> |
+| *Full-stack booking platform with RBAC & background job processing.* | *Scalable ETL pipeline using Medallion Architecture in Azure.* |
+| `Flask` `Vue.js` `Redis` `Celery` | `ADF` `Databricks` `Delta Lake` `PySpark` |
 
-### 🤖 [SupportX AI Assist](https://github.com/yourusername/SupportX-AI-Assist)
-> Multi-Agent IT support assistant powered by Agentic RAG and vector search
-
-- 🎯 Multi-agent orchestration with AutoGen framework
-- 🔍 Azure AI Search with Gemini embeddings for semantic similarity
-- 📧 Automated ticket escalation with email notifications
-
-**Tech:** `AutoGen` `Groq (Llama 3.3)` `Google Gemini` `Azure AI Search` `Streamlit`
-
----
-
-### 🏠 [Household Services Platform](https://github.com/iftikar0016/HouseHold-Services-V2)
-> Full-stack platform for booking household services with role-based access
-
-- 🔐 Role-Based Access Control (Admin, Professional, Customer)
-- ⚙️ Asynchronous task queues with Redis & Celery
-- 🎨 Responsive frontend with Vue.js and RESTful Flask backend
-
-**Tech:** `Flask` `Vue.js` `Redis` `Celery` `SQLite`
-
----
-
-### 🚕 [Azure Data Engineering – NYC Taxi Data](https://github.com/iftikar0016/DE-Project-NYC-taxi)
-> End-to-end distributed data pipeline processing NYC Taxi data
-
-- 📊 Medallion Architecture for structured data processing
-- 🔄 Dynamic ingestion pipelines with Azure Data Factory
-- ⚡ Optimized transformations using Databricks & PySpark
-
-**Tech:** `Azure Data Factory` `Databricks` `Delta Lake` `PySpark` `ADLS Gen2`
+</div>
 
 ---
 
@@ -121,9 +96,7 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iftikar0016&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iftikar0016&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iftikar0016&theme=tokyonight&hide_border=true)
 
