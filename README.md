@@ -4,24 +4,11 @@
 
 ### Software Engineer - Data & AI
 
-*Building scalable data pipelines & modern web applications*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iftikaralam/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iftikar0016)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iftikaralam0016@gmail.com)
 
 </div>
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on **AI-powered data solutions** and **end-to-end data platforms**
-- 💡 Passionate about **Data Engineering**, **Machine Learning**, and **Full-Stack Development**
-- 🎓 CGPA: **8.9/10**
-- 🌍 Based in **India**
-- 📫 Reach me at **iftikaralam0016@gmail.com**
-- ✅ **Available for opportunities**
 
 ---
 
@@ -110,7 +97,7 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 <div align="center">
 
-**[LinkedIn](https://www.linkedin.com/in/iftikaralam/)** • **[Email](mailto:iftikaralam0016@gmail.com)** • **[GitHub](https://github.com/iftikar0016)**
+**[Portfolio](https://www.iftikar.tech)** • **[LinkedIn](https://www.linkedin.com/in/iftikaralam/)** • **[Email](mailto:iftikaralam0016@gmail.com)** • **[GitHub](https://github.com/iftikar0016)**
 
 </div>
 
