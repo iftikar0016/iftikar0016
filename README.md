@@ -82,11 +82,11 @@
 
 <br />
 
-| [**Household Services**](https://github.com/iftikar0016/HouseHold-Services-V2) | [**NYC Taxi Data Pipeline**](https://github.com/iftikar0016/DE-Project-NYC-taxi) |
+| [**Real-Time IoT Streaming ETL**](https://github.com/iftikar0016/Real-Time-IoT-Streaming-ETL-Pipeline) | [**NYC Taxi Data Pipeline**](https://github.com/iftikar0016/DE-Project-NYC-taxi) |
 | :---: | :---: |
-| <a href="https://github.com/iftikar0016/HouseHold-Services-V2"><img src="https://raw.githubusercontent.com/iftikar0016/DE-Project-NYC-taxi/main/Architecture%20Diagram.jpg" width="450px" alt="Household Services"></a> | <a href="https://github.com/iftikar0016/DE-Project-NYC-taxi"><img src="https://raw.githubusercontent.com/iftikar0016/DE-Project-NYC-taxi/main/Architecture%20Diagram.jpg" width="450px" alt="NYC Taxi Pipeline"></a> |
-| *Full-stack booking platform with RBAC & background job processing.* | *Scalable ETL pipeline using Medallion Architecture in Azure.* |
-| `Flask` `Vue.js` `Redis` `Celery` | `ADF` `Databricks` `Delta Lake` `PySpark` |
+| <a href="https://github.com/iftikar0016/Real-Time-IoT-Streaming-ETL-Pipeline"><img src="https://github.com/iftikar0016/Real-Time-IoT-Streaming-ETL-Pipeline/blob/main/images/architecture.png" width="450px" alt="IoT Streaming Project"></a> | <a href="https://github.com/iftikar0016/DE-Project-NYC-taxi"><img src="https://raw.githubusercontent.com/iftikar0016/DE-Project-NYC-taxi/main/Architecture%20Diagram.jpg" width="450px" alt="NYC Taxi Pipeline"></a> |
+| *Scalable real-time ingestion and processing of IoT sensor data.* | *Scalable ETL pipeline using Medallion Architecture in Azure.* |
+| `Databricks` `PySpark` `Delta Live Tables (DLT)` | `ADF` `Databricks` `Delta Lake` `PySpark` |
 
 </div>
 
