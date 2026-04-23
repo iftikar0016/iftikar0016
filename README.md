@@ -51,6 +51,7 @@
 | Certification | Issuer | Credential ID |
 |---------------|--------|---------------|
 | [**Fabric Data Engineer Associate**](https://learn.microsoft.com/api/credentials/share/en-us/IftikarAlam-3173/16E94FC73C65F287?sharingId=85C5F1186E2A6D12) | Microsoft | DP-700 |
+| [**Azure AI Engineer Associate**](https://learn.microsoft.com/api/credentials/share/en-us/IftikarAlam-3972/DFBE9FD751E37004?sharingId=4C0EC7FF39A28E3D) | Microsoft | AI-102 |
 | [**Azure AI Fundamentals**](https://learn.microsoft.com/api/credentials/share/en-us/IftikarAlam-3972/28AE412589468E42?sharingId) | Microsoft | AI-900 |
 
 </div>
